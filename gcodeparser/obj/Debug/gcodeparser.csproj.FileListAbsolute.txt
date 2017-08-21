@@ -1,0 +1,11 @@
+E:\Netduino-gcode-master\gcodeparser\bin\Debug\gcodeparser.dll
+E:\Netduino-gcode-master\gcodeparser\bin\Debug\gcodeparser.pdb
+E:\Netduino-gcode-master\gcodeparser\obj\Debug\gcodeparser.csproj.CoreCompileInputs.cache
+E:\Netduino-gcode-master\gcodeparser\obj\Debug\gcodeparser.dll
+E:\Netduino-gcode-master\gcodeparser\obj\Debug\gcodeparser.pdb
+E:\GRBL_UI\gcodeparser\bin\Debug\gcodeparser.dll
+E:\GRBL_UI\gcodeparser\bin\Debug\gcodeparser.pdb
+E:\GRBL_UI\gcodeparser\obj\Debug\gcodeparser.csproj.CoreCompileInputs.cache
+E:\GRBL_UI\gcodeparser\obj\Debug\gcodeparser.dll
+E:\GRBL_UI\gcodeparser\obj\Debug\gcodeparser.pdb
+E:\GRBL_UI\gcodeparser\obj\Debug\gcodeparser.csprojResolveAssemblyReference.cache
