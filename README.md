@@ -1,4 +1,4 @@
-# GRBL_UI
+# GRBL_UI in C# for EleksDraw plotter
 A small application to send G-Code to the EleksDraw COREXY plotter.  
 Written in C# and compiled with the Visual Studio Community Edition 2017.
   
