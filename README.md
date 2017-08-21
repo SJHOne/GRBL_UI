@@ -2,6 +2,8 @@
 A small application to send G-Code to the EleksDraw COREXY plotter.  
 Written in C# and compiled with the Visual Studio Community Edition 2017.
   
+  ![Screenshot](/screenshots/UI1.png)
+  
 This work employs a relatively small contribution from me :) I "glued-together" several bits and pieces from repos around the web. The following works were used to create this application:  
   
   * Otto Hermansson, GcodeSender : https://github.com/OttoHermansson/GcodeSender  
