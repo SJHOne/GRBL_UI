@@ -1,5 +1,6 @@
 # GRBL_UI
-A small application to send G-Code to the EleksDraw COREXY plotter  
+A small application to send G-Code to the EleksDraw COREXY plotter.  
+Compiled with the Visual Studio Community Edition 2017.
   
 This work employs a relatively small contribution from me :) I "glued-together" several bits and pieces from repos around the web. The following works were used to create this application:  
   
