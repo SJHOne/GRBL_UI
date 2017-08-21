@@ -15,3 +15,5 @@ The EleksCAM software that comes with the device is OK, but even the latest vers
 
 Thanks also to Atomic Shrimp (https://www.youtube.com/watch?v=qSXXLTdh9FY) for putting up the unboxing movies, and Zax (http://forum.eleksmaker.com/user/zax) on the EleksMaker forum for filling in some of the blanks. 
   
+  ![EleksDraw Plotter](/screenshots/web_plotter.png)
+  
